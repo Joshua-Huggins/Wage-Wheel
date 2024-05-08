@@ -63,3 +63,7 @@ SOFTWARE.
 
 Let us know what we can improve on so we can make better with our skills!
 
+This is a copy due to issues on group project
+original can be found here: https://github.com/Lesley0816/Wage-Wheel
+
+
